@@ -1,6 +1,6 @@
 # REF
 
-> Print the external reference made within a script.
+> Print the external references made within a script.
 > >
 > Shell - Python - JavaScript - Ruby - Perl
 
